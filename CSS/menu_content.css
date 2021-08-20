@@ -1,0 +1,14 @@
+﻿@charset "utf-8";
+.content_table {
+	text-align: center;
+	}
+	
+.sel_relday {
+	}
+	
+.btn_findPage {
+	font-size:16px;
+	width: 60px;  
+	height: 30px;
+	text-align: center;
+	}
